@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 组件视图工厂类名 -->
+    <attr name="factoryClassName" format="string" />
+
+    <!-- LoaderLayout控件的属性 -->
+    <declare-styleable name="LoaderLayout">
+        <attr name="factoryClassName"/>
+    </declare-styleable>
+
+</resources>
